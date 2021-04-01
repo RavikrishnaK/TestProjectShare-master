@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8F8B546C26164A6400868FD4 /* TestFileViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F8B546B26164A6400868FD4 /* TestFileViewController.m */; };
 		AC136AD520E63D9D00A3933F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = AC136AD420E63D9D00A3933F /* AppDelegate.m */; };
 		AC136AD820E63D9D00A3933F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AC136AD720E63D9D00A3933F /* ViewController.m */; };
 		AC136ADB20E63D9D00A3933F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AC136AD920E63D9D00A3933F /* Main.storyboard */; };
@@ -16,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8F8B546A26164A6400868FD4 /* TestFileViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestFileViewController.h; sourceTree = "<group>"; };
+		8F8B546B26164A6400868FD4 /* TestFileViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestFileViewController.m; sourceTree = "<group>"; };
 		AC136AD020E63D9D00A3933F /* TestProjectShare.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestProjectShare.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC136AD320E63D9D00A3933F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		AC136AD420E63D9D00A3933F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -62,6 +65,8 @@
 				AC136AD420E63D9D00A3933F /* AppDelegate.m */,
 				AC136AD620E63D9D00A3933F /* ViewController.h */,
 				AC136AD720E63D9D00A3933F /* ViewController.m */,
+				8F8B546A26164A6400868FD4 /* TestFileViewController.h */,
+				8F8B546B26164A6400868FD4 /* TestFileViewController.m */,
 				AC136AD920E63D9D00A3933F /* Main.storyboard */,
 				AC136ADC20E63D9D00A3933F /* Assets.xcassets */,
 				AC136ADE20E63D9D00A3933F /* LaunchScreen.storyboard */,
@@ -144,6 +149,7 @@
 			files = (
 				AC136AD820E63D9D00A3933F /* ViewController.m in Sources */,
 				AC136AE320E63D9D00A3933F /* main.m in Sources */,
+				8F8B546C26164A6400868FD4 /* TestFileViewController.m in Sources */,
 				AC136AD520E63D9D00A3933F /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
